@@ -3,7 +3,7 @@
 
 <img align="right" alt="hacker" width="400" src="https://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=&label=Profile%20views&color=0e75b6&style=flat" alt="sdas08217" /> </p>
+
 
 - 🌱 I’m currently learning **Portswigger,Hack_This_Site,PicoCTF,Hack_The_Box**
 
