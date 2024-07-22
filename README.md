@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Portswigger,Hack_This_Site,PicoCTF,Hack_The_Box**
+- 🌱 I’m currently learning **Portswigger,Hack_This_Site,PicoCTF,Hack_The_Box,Try_Hack_Me**
 
 - 📫 How to reach me **ranariki18@gmail.com**
 
