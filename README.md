@@ -1,4 +1,4 @@
-#<h1 align="center">Hi 👋, I'm Saikat Rana</h1>
+#<h1 align="center">Hi 👋, I'm Saikat</h1>
 <h3 align="center">A passionate of Cyber Security from India</h3>
 
 <img align="right" alt="hacker" width="400" src="https://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif">
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ranariki18@gmail.com**
 
-- ⚡ Fun fact **I am not funny **
+- ⚡ Fun fact is there is no fun fact abouty me!
 
 
 ## 🌐 Socials:
