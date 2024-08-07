@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ranariki18@gmail.com**
 
-- ⚡ Fun fact is there is no fun fact abouty me!
+- ⚡ Fun fact is there is no fun fact about me!
 
 
 ## 🌐 Socials:
