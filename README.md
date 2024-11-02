@@ -1,5 +1,5 @@
 #<h1 align="center">Hi 👋, I'm Saikat</h1>
-<h3 align="center">A passionate of Cyber Security from India</h3>
+<h3 align="center">A passionate Cyber Security Student from India</h3>
 
 <img align="right" alt="hacker" width="400" src="https://www.chumbogordo.com.br/wp-content/uploads/2019/06/hacker2.gif">
 
